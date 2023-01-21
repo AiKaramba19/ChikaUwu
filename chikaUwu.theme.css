@@ -1,0 +1,59 @@
+/**
+ * @name ChikaUwu
+ * @author aiKaramba#5284
+ * @version 1.0.0
+ * @description https://discord.gg/X8JMSbFW2V my discord server
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite X8JMSbFW2V
+ * @authorId 880623455723217007
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+
+:root {
+  --background-image: url('https://forum.evanotend.com/uploads/gallery/category_2/gallery_5747_2_541968.png');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: url('https://forum.evanotend.com/uploads/gallery/category_2/gallery_5747_2_541968.png');
+  --popout-modal-blur: 0px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+  --home-button-image: url('https://sun9-21.userapi.com/impg/XcdV2m0WOr5olNwaVnE_PQWlSjslNyYLTa5otA/aVIluHS7cqE.jpg?size=512x512&quality=96&sign=a3a37e0329347efdd1ef7b7627a8a325&type=album');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.7;
+  --left-brightness: 0.58;
+  --middle-brightness: 0.4;
+  --right-brightness: 0.5;
+  --popout-modal-brightness: 0.6;
+  --gradient-primary: 137,54,48;
+  --gradient-secondary: 71,4,0;
+  --link-colour: #FBFBFB;
+  --scrollbar-colour: rgba(247, 43, 43, 0.42);
+  --gradient-direction: 360deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: Titillium Web;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 8px;
+  --rs-small-spacing: 0px;
+  --rs-medium-spacing: 0px;
+  --rs-large-spacing: 0px;
+  --rs-small-width: 2.5px;
+  --rs-medium-width: 2.5px;
+  --rs-large-width: 2.5px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: 90EF#8F;
+  --rs-idle-color: rgb(255, 8, 0);
+  --rs-dnd-color: #CC2D2D;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #5f2929;
+  --rs-phone-visible: block;
+}
